@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jack Guan
 
-<!--
-**JackGuan343/JackGuan343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical and Computer Engineering student at Cornell University interested in digital hardware, embedded systems, computer architecture, and hardware-software integration.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C, Python, Verilog  
+**Hardware & Tools:** FPGA, Quartus, Digital Logic Design
+
+## Selected Projects
+
+- **FPGA Motion Detection System** — Designed and implemented a TinyRV1 processor-based system in Verilog to detect motion input and generate corresponding sound output.
+- **Handwriting Recognition System** — Implemented and evaluated multiple search algorithms and data structures in C for image-based handwriting recognition.
+- **Data Structures & Algorithms** — Implemented dynamic vectors, linked lists, sorting algorithms, hash tables, and tree-based search structures in C.
