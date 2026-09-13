@@ -1,11 +1,11 @@
 # Hi, I'm Jack Guan
 
-Electrical and Computer Engineering student at Cornell University interested in digital hardware, computer systems, and engineering design.
+Electrical and Computer Engineering student at Cornell University interested in digital hardware, RTL design and verification, computer systems, and hardware-software design.
 
 ## Technical Skills
-
-**Languages:** C++, Python, Verilog  
-**Hardware & Tools:** FPGA, Quartus, Digital Logic Design
+**Programming & HDL:** Verilog, Python, C++  
+**Hardware & Tools:** FPGA, Quartus, Linux, Git  
+**Engineering:** RTL Design & Verification, Digital Logic Design
 
 ## Selected Projects
 
